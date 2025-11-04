@@ -1,6 +1,6 @@
 # Excel_Projects
 
-# Sales Dashboard in Excel  
+# Sales Dashboard in Excel 📈
 
 This project transformed a raw data set, through the utilization of formulas and pivot tables, into an interactive dashboard within Excel.
 
