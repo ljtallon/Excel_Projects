@@ -1,4 +1,4 @@
-# Excel_Projects
+# Excel Projects
 
 # Sales Dashboard in Excel 📈
 
