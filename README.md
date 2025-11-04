@@ -1,7 +1,8 @@
 # Excel_Projects
 
 # Sales Dashboard in Excel  
-An interactive Excel dashboard project showcasing sales performance analysis with pivot tables and dynamic visuals to support quick decision-making.  
+
+This project transformed a raw data set, through the utilization of formulas and pivot tables, into an interactive dashboard within Excel.
 
 ## Project Overview  
 This project leverages Excel’s built-in features to transform raw sales data into a dynamic, interactive dashboard.  
@@ -20,6 +21,10 @@ This project leverages Excel’s built-in features to transform raw sales data i
 ### Sales Dashboard (Excel)  
 <img width="973" height="630" alt="image" src="https://github.com/user-attachments/assets/e42fa815-0004-4df4-a4d1-bd467c99570a" />
 
+## Takeaways
+- Average Income per Purchase - Females, or higher incomed individuals, were more likely to make a purchase compared to males.
+- Customer Commute - Customers who commuted 0-1 miles were most likely to make a purchase, while customers who commuted 10+ miles were least likely to make a purchase.
+- Customer Age Bracket - Middle-aged individuals made significantly more purchases compared to older-aged individuals.
 
 ### Pivot Table Example  
 <img width="1160" height="777" alt="image" src="https://github.com/user-attachments/assets/8a894457-5434-4f19-8edc-33931103281c" />
